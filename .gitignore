@@ -1,0 +1,5 @@
+#Ignore the file that generates Authors automatically
+generate-authors.sh
+
+## Ignore Mac system files
+.DS_store
